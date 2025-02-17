@@ -39,7 +39,7 @@
    - รัน React app ด้วยคำสั่ง:
      ```bash
      cd frontend
-     npm start
+     npm run dev
      ```
    - React app จะเริ่มทำงานที่ `http://localhost:5173`.
 
